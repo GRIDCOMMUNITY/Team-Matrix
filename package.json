@@ -1,0 +1,9 @@
+{
+  "name": "team-matrix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Markdown Notes - Hack Day Haldia x GRID community starter",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
